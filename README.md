@@ -43,13 +43,6 @@ The analysis shows that:
 - Indoor temperature remains relatively stable.
 - The simplified MPC strategy reduces average energy consumption.
 
-## Project Structure
-
-- `notebooks/` – Jupyter notebooks containing analysis
-- `data/` – dataset used for analysis
-- `images/` – generated graphs
-- `report/` – research report
-
 ## Author
 
 Jona Ademi  
